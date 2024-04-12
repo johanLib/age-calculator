@@ -1,0 +1,9 @@
+{
+    "theme_color": "#8744ff",
+    "background_color": "rgba(240, 240, 240, 1)",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Age calculator app page Solution",
+    "short_name": "Age calculator app page",
+    "description": "Age calculator app page solution for frontend mentor"
+}
